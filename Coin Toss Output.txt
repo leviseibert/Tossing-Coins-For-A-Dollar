@@ -1,0 +1,114 @@
+Game 1: 
+Balance: $0.10
+Balance: $0.20
+Balance: $0.45
+Balance: $0.50
+Balance: $0.60
+Balance: $0.85
+Balance: $0.90
+Balance: $1.00
+Game Won!
+
+Game 2: 
+Balance: $0.05
+Balance: $0.10
+Balance: $0.15
+Balance: $0.20
+Balance: $0.30
+Balance: $0.35
+Balance: $0.60
+Balance: $0.70
+Balance: $0.95
+Balance: $1.00
+Game Won!
+
+Game 3: 
+Balance: $0.10
+Balance: $0.35
+Balance: $0.45
+Balance: $0.70
+Balance: $0.75
+Balance: $1.00
+Game Won!
+
+Game 4: 
+Balance: $0.05
+Balance: $0.15
+Balance: $0.40
+Balance: $0.45
+Balance: $0.55
+Balance: $0.65
+Balance: $0.90
+Balance: $1.00
+Game Won!
+
+Game 5: 
+Balance: $0.05
+Balance: $0.15
+Balance: $0.20
+Balance: $0.30
+Balance: $0.55
+Balance: $0.80
+Balance: $0.90
+Balance: $1.15
+Game Lost!
+
+Game 6: 
+Balance: $0.05
+Balance: $0.15
+Balance: $0.40
+Balance: $0.45
+Balance: $0.55
+Balance: $0.80
+Balance: $0.90
+Balance: $0.95
+Balance: $1.05
+Game Lost!
+
+Game 7: 
+Balance: $0.05
+Balance: $0.15
+Balance: $0.40
+Balance: $0.45
+Balance: $0.55
+Balance: $0.60
+Balance: $0.70
+Balance: $0.95
+Balance: $1.05
+Game Lost!
+
+Game 8: 
+Balance: $0.05
+Balance: $0.15
+Balance: $0.40
+Balance: $0.45
+Balance: $0.55
+Balance: $0.80
+Balance: $0.85
+Balance: $0.95
+Balance: $1.20
+Game Lost!
+
+Game 9: 
+Balance: $0.10
+Balance: $0.20
+Balance: $0.30
+Balance: $0.35
+Balance: $0.60
+Balance: $0.70
+Balance: $0.75
+Balance: $0.85
+Balance: $1.10
+Game Lost!
+
+Game 10: 
+Balance: $0.10
+Balance: $0.15
+Balance: $0.20
+Balance: $0.45
+Balance: $0.50
+Balance: $0.75
+Balance: $0.80
+Balance: $1.05
+Game Lost!
+
